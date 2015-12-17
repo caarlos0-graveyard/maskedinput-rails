@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "maskedinput-rails"
-  gem.version       = "1.4.0.0"
+  gem.version       = "1.4.1.0"
   gem.authors       = ["Carlos Alexandro Becker"]
   gem.email         = ["caarlos0@gmail.com"]
   gem.description   = %q{jquery.maskedinput for rails.}
